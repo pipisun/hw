@@ -1,4 +1,4 @@
-package group2.lesson8.prgo8_1;
+package gy_test;
 import java.util.*;
 import java.lang.Comparable;
 
