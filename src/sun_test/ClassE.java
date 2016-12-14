@@ -7,7 +7,6 @@ public class ClassE {
 		System.out.println("1-Initializing static super int");
 		return 1;
 	}
-	
 	static {
 		System.out.println("2-Executing super static block");
 	}
